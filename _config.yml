@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xu Haifeng"
-description              : "Ph.D. Candidate in Aerospace Science and Technology at Tongji University. "
+description              : "Ph.D. Candidate in Aerospace Science and Technology, Tongji University. "
 repository               : "xyyxhf/xuhaifeng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FKjwZekAAAAJ"
   email            : "haifenguuu@163.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/Haifeng-Xu-18"
+  researchgate     :  "https://www.researchgate.net/profile/Haifeng-Xu-18" # e.g., "https://www.researchgate.net/profile/Haifeng-Xu-18"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "xyyxhf" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0003-1452-8319" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
