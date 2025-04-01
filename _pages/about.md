@@ -16,14 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 👋 About me
+I am a **Ph.D. student** in the School of Aerospace Engineering and Applied Mechanics at **Tongji University**, supervised by Prof. Zhang Zhen.
 
-I'm currently study at Tongji University.
-My research interest includes nonlinear dynamic and deep learning. I have published more than numerous papers at the top international journals with total <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> ( <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes **Nonlinear Dynamic Identification**, **Interpretable AI** and **Structure Health Monitoring**. I have published more than numerous papers at the top international journals with total <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> ( <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*: &nbsp;🎉🎉 Provincial Excellent Master's Thesis (Anhui Province). 
+- *2025.02*: &nbsp;🎉🎉 A paper accepeted by journal [*IEEE Transactions on Reliability*](http://10.1109/TR.2025.3530441). 
 
 # 📝 Publications 
 
