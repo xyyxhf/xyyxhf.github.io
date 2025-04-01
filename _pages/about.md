@@ -28,7 +28,7 @@ My research interest includes **Nonlinear Dynamic Identification**, **Interpreta
 - *2024.12*: &nbsp;🎉🎉 Received the **National scholarship** from Tongji University.
 - *2024.01*: &nbsp;🎉🎉 A paper accepeted by journal [*Information Fusion*](https://doi.org/10.1016/j.inffus.2023.102222).
 - *2024.01*: &nbsp;🎉🎉 A paper accepeted by journal [*Applied Soft Computing*](https://doi.org/10.1016/j.asoc.2024.111229).
-- *2025.04*: &nbsp;🎉🎉 Received the Outstanding Master's Thesis in Mechanical Engineering in Anhui Province from Auhui Mechanical Engineering Society
+- *2025.04*: &nbsp;🎉🎉 Received the Outstanding Master's Thesis in Mechanical Engineering from Auhui Mechanical Engineering Society.
 - *2023.12*: &nbsp;🎉🎉 Received the **National scholarship** from Anhui University of Technology.
   
   
