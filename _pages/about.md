@@ -23,9 +23,15 @@ My research interest includes **Nonlinear Dynamic Identification**, **Interpreta
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Provincial Excellent Master's Thesis (Anhui Province). 
-- *2025.02*: &nbsp;🎉🎉 A paper accepeted by journal [*IEEE Transactions on Reliability*](http://10.1109/TR.2025.3530441). 
-
+- *2025.04*: &nbsp;🎉🎉 Received the Provincial Excellent Master's Thesis (Anhui Province). 
+- *2025.02*: &nbsp;🎉🎉 A paper accepeted by journal [*IEEE Transactions on Reliability*](https://doi.org/10.1109/TR.2025.3530441). 
+- *2024.12*: &nbsp;🎉🎉 Received the **National scholarship** from Tongji University.
+- *2024.01*: &nbsp;🎉🎉 A paper accepeted by journal [*Information Fusion*](https://doi.org/10.1016/j.inffus.2023.102222).
+- *2024.01*: &nbsp;🎉🎉 A paper accepeted by journal [*Applied Soft Computing*](https://doi.org/10.1016/j.asoc.2024.111229).
+- *2025.04*: &nbsp;🎉🎉 Received the Outstanding Master's Thesis in Mechanical Engineering in Anhui Province from Auhui Mechanical Engineering Society
+- *2023.12*: &nbsp;🎉🎉 Received the **National scholarship** from Anhui University of Technology.
+  
+  
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
