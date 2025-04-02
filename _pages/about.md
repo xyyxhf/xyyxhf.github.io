@@ -40,8 +40,8 @@ My research interest includes **Nonlinear Dynamic Identification**, **Interpreta
 
 **Haifeng Xu**, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong>
-- This paper investigates a demanding and meaningful task of intelligent fault diagnosis, in which multi-sensors signals are fused for semi-supervised analysis with few labeled fault data. (JCR Q1, IF=14.8, **🏆Highly Cited Paper**,**🔥Hot Paper**)
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong> **🏆Highly Cited Paper**,**🔥Hot Paper**
+- This paper investigates a demanding and meaningful task of intelligent fault diagnosis, in which multi-sensors signals are fused for semi-supervised analysis with few labeled fault data. (*JCR Q1, IF=14.8*)
 </div>
 </div>
 
