@@ -41,10 +41,7 @@ My research interest includes **Nonlinear Dynamic**, **Deep Learning** applicati
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong> **🏆Highly Cited Paper**,**🔥Hot Paper**
 
-- A multi-sensor information fusion method for semi-supervised intelligent diagnosis.
-- Extremely fewer labeled multi-sensor signals fusion features are used for modeling.
-- Tensor nuclear norm exerts low-rank constraint on tensor data for capturing feature.
-- A manifold regularization can obtain potential label information of unlabeled data.
+- A multi-sensor information fusion method for semi-supervised intelligent diagnosis. Extremely fewer labeled multi-sensor signals fusion features are used for modeling.
 <div>
 <div>
 
@@ -56,10 +53,7 @@ My research interest includes **Nonlinear Dynamic**, **Deep Learning** applicati
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u-x6o8ySG0sC'></span></strong>
 
-- A novel robust low-rank matrix classifier with fuzzy weighting factor (RLRMC-FWF) is designed for fault diagnosis.
-- A grouping elastic net is introduced, offering control over the properties in low-rank, sparsity, and grouping effects.
-- Incorporate fuzzy membership function to mitigate the impact of unbalanced data, enhancing model's robustness and accuracy.
-- The superior nature of our model for unbalanced dataset diagnosis is demonstrated, compared to state-of-the-art solutions.
+- A grouping elastic net is introduced, offering control over the properties in low-rank, sparsity, and grouping effects. Incorporate fuzzy membership function to mitigate the impact of unbalanced data, enhancing model's robustness and accuracy.
 <div>
 <div>
   
@@ -71,9 +65,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jin Su, Jinyu Tong
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:Y0pCki6q_DkC'></span></strong> **🏆Highly Cited Paper**
 
-- A multi-class fuzzy support matrix machine (MFSMM) is proposed.
-- MFSMM can maximize the interval between any two fuzzy hyperplanes.
-- MFSMM has stronger fault tolerance for samples with uncertain information.
+- MFSMM can maximize the interval between any two fuzzy hyperplanes. MFSMM has stronger fault tolerance for samples with uncertain information.
 <div>
 <div>
   
@@ -85,10 +77,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:Tyk-4Ss8FVUC'></span></strong> **🏆Highly Cited Paper**
 
-- A novel non-parallel bounded support matrix machine (NPBSMM) is proposed.
-- A constraint norm group (CNG) is constructed, which can suppress negative influence of outliers and enhance robustness.
-- The dual problem of NPBSMM avoids the calculation of matrix inversion.
-- Multi-rank left and right projection matrices are employed to realize a better ability of data fitting.
+- A constraint norm group (CNG) is constructed, which can suppress negative influence of outliers and enhance robustness. The dual problem of NPBSMM avoids the calculation of matrix inversion. Multi-rank left and right projection matrices are employed to realize a better ability of data fitting.
 <div>
 <div>
   
@@ -112,9 +101,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Haidong Shao, Jinyu Tong
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:zYLM7Y9cAGgC'></span></strong>
 
-- A novel dynamic penalty adaptive matrix machine (DPAMM) is proposed for classification of unbalanced samples.
-- The adaptive low-rank approximation minimization framework is used to adaptively select the larger singular values related to the strong correlation information within the matrix samples.
-- The dynamic penalty factor is introduced to establish a classification model, which can weaken the influence of unbalanced samples on model training and improve the classification performance.
+- The adaptive low-rank approximation minimization framework is used to adaptively select the larger singular values related to the strong correlation information within the matrix samples. The dynamic penalty factor is introduced to establish a classification model, which can weaken the influence of unbalanced samples on model training and improve the classification performance.
 <div>
 <div>
   
@@ -126,9 +113,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Haidong Shao, Jinyu Tong
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:9yKSN-GCB0IC'></span></strong>
 
-- A twin robust matrix machine (TRMM) is proposed for classification with outliers.
-- The truncated nuclear norm makes TRMM can capture strong correlated information.
-- The ramp loss is introduced to make TRMM insensitive to outlier samples.
+- A twin robust matrix machine (TRMM) is proposed for classification with outliers. The truncated nuclear norm makes TRMM can capture strong correlated information. The ramp loss is introduced to make TRMM insensitive to outlier samples.
 </div>
 </div>
 
