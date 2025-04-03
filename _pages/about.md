@@ -131,6 +131,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Haidong Shao, Jinyu Tong
 - The truncated nuclear norm makes TRMM can capture strong correlated information.
 - The ramp loss is introduced to make TRMM insensitive to outlier samples.
 </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2025.04* . Provincial Outstanding Master's Thesis by Education Department of Anhui Province. 
