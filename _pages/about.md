@@ -36,13 +36,17 @@ My research interest includes **Nonlinear Dynamic**, **Deep Learning** applicati
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Inform. Fusion. 2024</div><img src='images/GELRTLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate](https://doi.org/10.1016/j.inffus.2023.102222)
+[Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate](https://doi.org/10.1016/j.inffus.2023.102222) (*JCR Q1, IF=14.8*)
 
 **Haifeng Xu**, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong> **🏆Highly Cited Paper**,**🔥Hot Paper**
-- This paper investigates a demanding and meaningful task of intelligent fault diagnosis, in which multi-sensors signals are fused for semi-supervised analysis with few labeled fault data. (*JCR Q1, IF=14.8*)
-</div>
+
+- A multi-sensor information fusion method for semi-supervised intelligent diagnosis.
+- Extremely fewer labeled multi-sensor signals fusion features are used for modeling.
+- Tensor nuclear norm exerts low-rank constraint on tensor data for capturing feature.
+- A manifold regularization can obtain potential label information of unlabeled data.
+
 </div>
 
 # 🎖 Honors and Awards
