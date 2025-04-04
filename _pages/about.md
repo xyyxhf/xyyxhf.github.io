@@ -21,7 +21,7 @@ I am a **Ph.D. student** in the School of Aerospace Engineering and Applied Mech
 
 My research interest includes **Nonlinear Dynamic**, **Deep Learning** application in **structure health monitoring (SHM)** scenarios. I have published numerous papers at the top international journals with total <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> ( <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 Received the Provincial Outstanding Master's Thesis from Education Department of Anhui Province. 
 - *2025.02*: &nbsp;🎉🎉 A paper accepeted by journal [*IEEE Transactions on Reliability*](https://doi.org/10.1109/TR.2025.3530441). 
@@ -29,9 +29,9 @@ My research interest includes **Nonlinear Dynamic**, **Deep Learning** applicati
 - *2024.07*: &nbsp;🎉🎉 Received the Outstanding Master's Thesis in Mechanical Engineering from Auhui Mechanical Engineering Society.
 - *2024.01*: &nbsp;🎉🎉 A paper accepeted by journal [*Information Fusion*](https://doi.org/10.1016/j.inffus.2023.102222).
 - *2024.01*: &nbsp;🎉🎉 A paper accepeted by journal [*Applied Soft Computing*](https://doi.org/10.1016/j.asoc.2024.111229).
-  
-# 📝 Publications 
 
+<span class='anchor' id='publications'></span>  
+# 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Inform. Fusion. 2024</div><img src='images/GELRTLM.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate](https://doi.org/10.1016/j.inffus.2023.102222), published in *Information Fusion*. (*JCR Q1, IF=14.8*)
@@ -43,21 +43,25 @@ My research interest includes **Nonlinear Dynamic**, **Deep Learning** applicati
 <div>
 <div>
 
-# 🎖 Honors and Awards
+<span class='anchor' id='honors-and-awards'></span>
+# 🥇 Honors and Awards
 - *2025.04* . Provincial Outstanding Master's Thesis by Education Department of Anhui Province. 
 - *2024.12* . National Scholarship by Ministry of Education of China.
 - *2024.07* . Outstanding Master's Thesis in Mechanical Engineering by Auhui Mechanical Engineering Society.
 - *2023.07* . Excellent Graduate of Anhui Province Higher Education Institutions by Education Department of Anhui Province.
 - *2022.12* . National Scholarship by Ministry of Education of China.
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2024.09 - present*, Ph.D. in Aerospace Science and Technology, Tongji University, Supervisor: Prof. [Zhang Zhen](https://www.researchgate.net/profile/Zhen-Zhang-52).
 - *2020.09 - 2023.07*, M.E. in Mechanical Engineering, Anhui University of Technology, Supervisors: Assoc. Prof. [Pan Haiyang](https://www.researchgate.net/profile/Haiyang-Pan), Prof. [Zheng Jinde](https://www.researchgate.net/profile/Zheng-Jinde).
 - *2015.09 - 2019.07*, B.E. in Mechanical Design, Manufacturing, and Automation, Anqing Normal University.
 
+<span class='anchor' id='work-experiences'></span>
 # 💻 Work Experiences
 - *2023.09 - 2024.06*, Research Assistant in Tsinghua University.
 -- Conducted a research project focused on large language model for machinary industry health monitoring.
-
+  
+<span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
 - *Later...*
