@@ -34,10 +34,10 @@ My research interest includes **Nonlinear Dynamic of Jointed Structure**, **Deco
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Inform. Fusion. 2024</div><img src='images/GELRTLM.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate](https://doi.org/10.1016/j.inffus.2023.102222) 
+[Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate](https://doi.org/10.1016/j.inffus.2023.102222) [**GoogleScholar**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u5HHmVD_uO8C)
   
 Published in *Information Fusion*, *JCR Q1, IF=14.8*. **🔥Hot Paper** **🏆Highly Cited Paper** 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong> 
+<strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong> 
 
 **Haifeng Xu**, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu
 
@@ -53,7 +53,7 @@ Published in *Applied Soft Computing*, *JCR Q1, IF=7.2*.
 
 **Haifeng Xu**, Haiyang Pan, Jinde Zheng, Jinyu Tong, Feibin Zhang, Fulei Chu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**GoogleScholar**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u-x6o8ySG0sC'></span></strong>
 - A grouping elastic net is introduced, offering control over the properties in low-rank, sparsity, and grouping effects. Incorporate fuzzy membership function to mitigate the impact of unbalanced data, enhancing model's robustness and accuracy.
 </div>
 </div>
@@ -66,7 +66,7 @@ Published in *Knowledge-Based Systems*, *JCR Q1, IF=7.2*.
 
 **Haifeng Xu**, Haiyang Pan, Jinde Zheng, Qingyun Liu, Jinyu Tong
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:zYLM7Y9cAGgC'></span></strong>
+[**GoogleScholar**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:zYLM7Y9cAGgC'></span></strong>
 - The adaptive low-rank approximation minimization framework is used to adaptively select the larger singular values related to the strong correlation information within the matrix samples. The dynamic penalty factor is introduced to establish a classification model, which can weaken the influence of unbalanced samples on model training and improve the classification performance.
 </div>
 </div>
@@ -79,7 +79,7 @@ Published in *Information Sciences*, *JCR Q1, IF=8.1*. **🏆Highly Cited Paper*
 
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
+[**GoogleScholar**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
 - A constraint norm group is constructed, which can suppress negative influence of outliers and enhance robustness. The dual problem of NPBSMM avoids the calculation of matrix inversion. Multi-rank left and right projection matrices are employed to realize a better ability of data fitting.
 </div>
 </div>
@@ -92,7 +92,7 @@ Published in *IEEE Transactions on Industrial Informatics*, *JCR Q1, IF=11.7*. *
 
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Haidong Shao, Jinyu Tong
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:UeHWp8X0CEIC'></span></strong> 
+[**GoogleScholar**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:UeHWp8X0CEIC'></span></strong> 
 -  A newly intelligent diagnosis method based on semi-supervised matrixized graph embedding machine is proposed.
 </div>
 </div>
@@ -105,7 +105,7 @@ Published in *Knowledge-Based Systems*, *JCR Q1, IF=7.2*.
 
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong, Jian Cheng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:9yKSN-GCB0IC'></span></strong>
+[**GoogleScholar**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:9yKSN-GCB0IC'></span></strong>
 - A twin robust matrix machine (TRMM) is proposed for classification with outliers. The truncated nuclear norm makes TRMM can capture strong correlated information. The ramp loss is introduced to make TRMM insensitive to outlier samples.
 </div>
 </div>
@@ -118,7 +118,7 @@ Published in *Advanced Engineering Informatics*, *JCR Q1, IF=8*. **🏆Highly Ci
 
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jin Su, Jinyu Tong 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:Y0pCki6q_DkC'></span></strong> 
+[**GoogleScholar**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:Y0pCki6q_DkC'></span></strong> 
 - MFSMM can maximize the interval between any two fuzzy hyperplanes, and has stronger fault tolerance for samples with uncertain information.
 </div>
 </div>
