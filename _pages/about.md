@@ -36,7 +36,7 @@ My research interest includes **Nonlinear Dynamic**, **Deep Learning** applicati
 <div class='paper-box-text' markdown="1">
 [Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate](https://doi.org/10.1016/j.inffus.2023.102222) 
 
-Published in *Information Fusion*, *JCR Q1, IF=14.8*， **🔥Hot Paper**, **🏆Highly Cited Paper**.
+Published in *Information Fusion*, *JCR Q1, IF=14.8*. **🔥Hot Paper** **🏆Highly Cited Paper**
 
 **Haifeng Xu**, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu
 
@@ -71,25 +71,11 @@ Published in *Knowledge-Based Systems*, *JCR Q1, IF=7.2*.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Adv. Eng. Inform. 2022</div><img src='images/MFSMM.png' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Multi-class fuzzy support matrix machine for classification in roller bearing fault diagnosis](https://doi.org/10.1016/j.aei.2021.101445)
-
-Published in *Advanced Engineering Informatics*, *JCR Q1, IF=8*, **🏆Highly Cited Paper**.
-
-Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jin Su, Jinyu Tong 
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:Y0pCki6q_DkC'></span></strong> 
-
-- MFSMM can maximize the interval between any two fuzzy hyperplanes, and has stronger fault tolerance for samples with uncertain information.
-</div>
-</div>
-  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Inform. Sciences. 2023</div><img src='images/NPBSMM.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Non-parallel bounded support matrix machine and its application in roller bearing fault diagnosis](https://doi.org/10.1016/j.ins.2022.12.090)
 
-Published in *Information Sciences*, *JCR Q1, IF=8.1*, **🏆Highly Cited Paper**.
+Published in *Information Sciences*, *JCR Q1, IF=8.1*. **🏆Highly Cited Paper**
 
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong
 
@@ -103,7 +89,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong
 <div class='paper-box-text' markdown="1">
 [A Semi-Supervised Matrixized Graph Embedding Machine for Roller Bearing Fault Diagnosis Under Few-Labeled Samples](https://doi.org/10.1109/TII.2023.3265525)
 
-Published in *IEEE Transactions on Industrial Informatics*, *JCR Q1, IF=11.7*, **🏆Highly Cited Paper**.
+Published in *IEEE Transactions on Industrial Informatics*, *JCR Q1, IF=11.7*. **🏆Highly Cited Paper**
 
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Haidong Shao, Jinyu Tong
 
@@ -125,13 +111,29 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong, Jian Cheng
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Adv. Eng. Inform. 2022</div><img src='images/MFSMM.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Multi-class fuzzy support matrix machine for classification in roller bearing fault diagnosis](https://doi.org/10.1016/j.aei.2021.101445)
+
+Published in *Advanced Engineering Informatics*, *JCR Q1, IF=8*. **🏆Highly Cited Paper**
+
+Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jin Su, Jinyu Tong 
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:Y0pCki6q_DkC'></span></strong> 
+
+- MFSMM can maximize the interval between any two fuzzy hyperplanes, and has stronger fault tolerance for samples with uncertain information.
+</div>
+</div>
+
 <span class='anchor' id='honors-and-awards'></span>
 # 🥇 Honors and Awards
 - *2025.04* . Provincial Outstanding Master's Thesis by Education Department of Anhui Province. 
 - *2024.12* . National Scholarship by Ministry of Education of China.
 - *2024.07* . Outstanding Master's Thesis in Mechanical Engineering by Auhui Mechanical Engineering Society.
-- *2023.07* . Excellent Graduate of Anhui Province Higher Education Institutions by Education Department of Anhui Province.
+- *2023.05* . Outstanding Graduate of Anhui Province Higher Education Institutions by Education Department of Anhui Province.
 - *2022.12* . National Scholarship by Ministry of Education of China.
+- *2022.12* . Anhui Province Postgraduate Innovation and Entrepreneurship Star by Education Department of Anhui Province.
+- *2021.12* . Merit Student by Anhui University of Technology.
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
@@ -142,7 +144,9 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong, Jian Cheng
 <span class='anchor' id='work-experiences'></span>
 # 💻 Work Experiences
 - *2023.09 - 2024.06*, Research Assistant in Tsinghua University.
--- Conducted a research project focused on large language model for machinary industry health monitoring.
+-- Conducted research project focused on large language model for machinary industry health monitoring.
+- *2023.07 - 2024.09*, Algorithm Engineer in FreqX Intelligence Technology Co., Ltd..
+-- Conducted algorithm development for machinary intelligent health maintainance.
   
 <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
