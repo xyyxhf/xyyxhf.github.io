@@ -125,32 +125,18 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jin Su, Jinyu Tong
 </div>
 
 Haiyang Pan, **Haifeng Xu***, Jian Cheng, Jinde Zheng, Jinyu Tong. [A Multiclass Graph Embedding Matrix Classification Method for Roller Bearing State Identification Under Limited Sample](https://doi.org/10.1109/TR.2025.3530441), *IEEE Transactions on Reliability*, 2025. *JCR Q2, IF=5*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:LkGwnXOMwfcC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:LkGwnXOMwfcC'></span></strong> 
-</div>
-</div>
 
 Qi Li, Lichang Qin, **Haifeng Xu**, Qijian Lin, Zhaoye Qin, Fulei Chu. [Transparent information fusion network: An explainable network for multi-source bearing fault diagnosis via self-organized neural-symbolic nodes](https://doi.org/10.1016/j.aei.2025.103156), *Advanced Engineering Informatics*, 2025. *JCR Q1, IF=8*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:_FxGoFyzp5QC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:_FxGoFyzp5QC'></span></strong> 
-</div>
-</div>
 
 Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinde Zheng, Jinyu Tong, Qingyun Liu. [Deep stacked pinball transfer matrix machine with its application in roller bearing fault diagnosis](https://doi.org/10.1016/j.engappai.2023.105991), *Engineering Applications of Artificial Intelligence*, 2023. *JCR Q1, IF=7.5*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:W7OEmFMy1HYC'></span></strong> 
-</div>
-</div>
 
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng. [A novel symplectic relevance matrix machine method for intelligent fault diagnosis of roller bearing](https://doi.org/10.1016/j.eswa.2021.116400), *Expert Systems with Applications*, 2022. *JCR Q1, IF=7.5*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:qjMakFHDy7sC'></span></strong> 
-</div>
-</div>
 
 Haiyang Pan, **Haifeng Xu**, Qingyun Liu, Jinde Zheng, Jinyu Tong. [An intelligent fault diagnosis method based on adaptive maximal margin tensor machine](https://doi.org/10.1016/j.eswa.2021.116400), *Measurement*, 2022. *JCR Q1, IF=5.2*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:2osOgNQ5qMEC'></span></strong> 
-</div>
-</div>
 
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Qingyun Liu, Jinyu Tong. [Cyclic symplectic component decomposition with application in planetary gearbox fault diagnosis](https://doi.org/10.1016/j.mechmachtheory.2022.104792), *Mechanism and Machine Theory*, 2022. *JCR Q1, IF=4.5*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:d1gkVwhDpl0C'></span></strong> 
-</div>
-</div>
 
 Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pinball transfer support matrix machine for roller bearing fault diagnosis under limited annotation data](https://doi.org/10.1016/j.asoc.2022.109209), *Applied Soft Computing*, 2022. *JCR Q1, IF=7.2*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:IjCSPb-OGe4C'></span></strong> 
-</div>
-</div>
 
 <span class='anchor' id='research-projects'></span>
 # 📕 Research Projects
