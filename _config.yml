@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xu Haifeng' Academic Page"
+title                    : "Xu Haifeng's Academic Page"
 description              : "Ph.D. Candidate in Aerospace Science and Technology at Tongji University."
 repository               : "xyyxhf/xuhaifeng.github.io"
 google_scholar_stats_use_cdn : true
