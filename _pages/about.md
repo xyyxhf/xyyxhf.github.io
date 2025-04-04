@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xu Haifeng' AcadamicPage"
+title: "Xu Haifeng's Academic Page"
 excerpt: ""
 author_profile: true
 redirect_from: 
