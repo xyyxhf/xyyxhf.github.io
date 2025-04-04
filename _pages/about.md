@@ -36,11 +36,11 @@ My research interest includes **Nonlinear Dynamic of Jointed Structure**, **Deco
 <div class='paper-box-text' markdown="1">
 [Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate](https://doi.org/10.1016/j.inffus.2023.102222) 
   
-Published in *Information Fusion*, *JCR Q1, IF=14.8*. **🔥Hot Paper** **🏆Highly Cited Paper**
+Published in *Information Fusion*, *JCR Q1, IF=14.8*. **🔥Hot Paper** **🏆Highly Cited Paper** 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong> 
 
 **Haifeng Xu**, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong> 
 - A multi-sensor information fusion method for semi-supervised intelligent diagnosis. Extremely fewer labeled multi-sensor signals fusion features are used for modeling.
 </div>
 </div>
