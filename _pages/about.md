@@ -30,7 +30,6 @@ My research interest includes **Nonlinear Dynamic**, **Deep Learning** applicati
 - *2024.01*: &nbsp;🎉🎉 A paper accepeted by journal [*Information Fusion*](https://doi.org/10.1016/j.inffus.2023.102222).
 - *2024.01*: &nbsp;🎉🎉 A paper accepeted by journal [*Applied Soft Computing*](https://doi.org/10.1016/j.asoc.2024.111229).
   
-  
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Inform. Fusion. 2024</div><img src='images/GELRTLM.png' alt="sym" width="80%"></div></div>
@@ -40,9 +39,7 @@ My research interest includes **Nonlinear Dynamic**, **Deep Learning** applicati
 **Haifeng Xu**, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong> **🏆Highly Cited Paper**,**🔥Hot Paper**
-
 - A multi-sensor information fusion method for semi-supervised intelligent diagnosis. Extremely fewer labeled multi-sensor signals fusion features are used for modeling.
-
 <div>
 <div>
 
