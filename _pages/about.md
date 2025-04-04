@@ -182,5 +182,3 @@ Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pi
 # 💬 Invited Talks
 - *T o D o*
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RUjB2DzMrfrOd7WDxjV0AbuBitFSF4_P8ZqF8B9a1FU&cl=ffffff&w=a"></script>
