@@ -125,7 +125,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jin Su, Jinyu Tong
 </div>
 </div>
 
-<span class='anchor' id='research-project'></span>
+<span class='anchor' id='research-projects'></span>
 # 📕 Research Projects
 - *2022.01 - 2022.12*. *Research on Nonlinear Projection Analysis and Diagnostic Methods for Typical Faults of Gearboxes under Complex Operating Conditions*, Anhui Province Graduate Science Research Project, **Host**, Project Completed.
 
