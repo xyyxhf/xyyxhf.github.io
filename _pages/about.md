@@ -35,11 +35,8 @@ My research interest includes **Nonlinear Dynamic of Jointed Structure**, **Deco
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Inform. Fusion. 2024</div><img src='images/GELRTLM.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate](https://doi.org/10.1016/j.inffus.2023.102222) 
-
 Published in *Information Fusion*, *JCR Q1, IF=14.8*. **🔥Hot Paper** **🏆Highly Cited Paper**
-
 **Haifeng Xu**, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu
-
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong> 
 - A multi-sensor information fusion method for semi-supervised intelligent diagnosis. Extremely fewer labeled multi-sensor signals fusion features are used for modeling.
 </div>
@@ -48,11 +45,8 @@ Published in *Information Fusion*, *JCR Q1, IF=14.8*. **🔥Hot Paper** **🏆Hi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Soft. Comput. 2024</div><img src='images/RLRMCFWF.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Intelligent fault identification in sample imbalance scenarios using robust low-rank matrix classifier with fuzzy weighting factor](https://doi.org/10.1016/j.asoc.2024.111229)
-
 Published in *Applied Soft Computing*, *JCR Q1, IF=7.2*.
-
 **Haifeng Xu**, Haiyang Pan, Jinde Zheng, Jinyu Tong, Feibin Zhang, Fulei Chu
-
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u-x6o8ySG0sC'></span></strong>
 - A grouping elastic net is introduced, offering control over the properties in low-rank, sparsity, and grouping effects. Incorporate fuzzy membership function to mitigate the impact of unbalanced data, enhancing model's robustness and accuracy.
 </div>
@@ -61,11 +55,8 @@ Published in *Applied Soft Computing*, *JCR Q1, IF=7.2*.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowl-Based. Systems. 2022</div><img src='images/DPAMM.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Dynamic penalty adaptive matrix machine for the intelligent detection of unbalanced faults in roller bearing](https://doi.org/10.1016/j.knosys.2022.108779)
-
 Published in *Knowledge-Based Systems*, *JCR Q1, IF=7.2*.
-
 **Haifeng Xu**, Haiyang Pan, Jinde Zheng, Qingyun Liu, Jinyu Tong
-
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:zYLM7Y9cAGgC'></span></strong>
 - The adaptive low-rank approximation minimization framework is used to adaptively select the larger singular values related to the strong correlation information within the matrix samples. The dynamic penalty factor is introduced to establish a classification model, which can weaken the influence of unbalanced samples on model training and improve the classification performance.
 </div>
@@ -74,13 +65,9 @@ Published in *Knowledge-Based Systems*, *JCR Q1, IF=7.2*.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Inform. Sciences. 2023</div><img src='images/NPBSMM.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Non-parallel bounded support matrix machine and its application in roller bearing fault diagnosis](https://doi.org/10.1016/j.ins.2022.12.090)
-
 Published in *Information Sciences*, *JCR Q1, IF=8.1*. **🏆Highly Cited Paper**
-
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong
-
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
-
 - A constraint norm group is constructed, which can suppress negative influence of outliers and enhance robustness. The dual problem of NPBSMM avoids the calculation of matrix inversion. Multi-rank left and right projection matrices are employed to realize a better ability of data fitting.
 </div>
 </div>
@@ -88,11 +75,8 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE. T. Ind. Inform. 2023</div><img src='images/SMGEM.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A Semi-Supervised Matrixized Graph Embedding Machine for Roller Bearing Fault Diagnosis Under Few-Labeled Samples](https://doi.org/10.1109/TII.2023.3265525)
-
 Published in *IEEE Transactions on Industrial Informatics*, *JCR Q1, IF=11.7*. **🏆Highly Cited Paper**
-
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Haidong Shao, Jinyu Tong
-
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:UeHWp8X0CEIC'></span></strong> 
 -  A newly intelligent diagnosis method based on semi-supervised matrixized graph embedding machine is proposed.
 </div>
@@ -101,11 +85,8 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Haidong Shao, Jinyu Tong
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowl-Based. Systems. 2022</div><img src='images/TRMM.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Twin robust matrix machine for intelligent fault identification of outlier samples in roller bearing](https://doi.org/10.1016/j.knosys.2022.109391)
-
 Published in *Knowledge-Based Systems*, *JCR Q1, IF=7.2*.
-
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong, Jian Cheng
-
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:9yKSN-GCB0IC'></span></strong>
 - A twin robust matrix machine (TRMM) is proposed for classification with outliers. The truncated nuclear norm makes TRMM can capture strong correlated information. The ramp loss is introduced to make TRMM insensitive to outlier samples.
 </div>
@@ -114,28 +95,32 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong, Jian Cheng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Adv. Eng. Inform. 2022</div><img src='images/MFSMM.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Multi-class fuzzy support matrix machine for classification in roller bearing fault diagnosis](https://doi.org/10.1016/j.aei.2021.101445)
-
 Published in *Advanced Engineering Informatics*, *JCR Q1, IF=8*. **🏆Highly Cited Paper**
-
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jin Su, Jinyu Tong 
-
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:Y0pCki6q_DkC'></span></strong> 
 - MFSMM can maximize the interval between any two fuzzy hyperplanes, and has stronger fault tolerance for samples with uncertain information.
 </div>
 </div>
 
+<div class='paper-box-text' markdown="1">
 Haiyang Pan, **Haifeng Xu**, Jian Cheng, Jinde Zheng, Jinyu Tong. [A Multiclass Graph Embedding Matrix Classification Method for Roller Bearing State Identification Under Limited Sample](https://doi.org/10.1109/TR.2025.3530441), *IEEE Transactions on Reliability*, 2025. *JCR Q2, IF=5*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:LkGwnXOMwfcC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:LkGwnXOMwfcC'></span></strong> 
 
+<div class='paper-box-text' markdown="1">
 Qi Li, Lichang Qin, **Haifeng Xu**, Qijian Lin, Zhaoye Qin, Fulei Chu. [Transparent information fusion network: An explainable network for multi-source bearing fault diagnosis via self-organized neural-symbolic nodes](https://doi.org/10.1016/j.aei.2025.103156), *Advanced Engineering Informatics*, 2025. *JCR Q1, IF=8*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:_FxGoFyzp5QC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:_FxGoFyzp5QC'></span></strong> 
 
+<div class='paper-box-text' markdown="1">
 Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinde Zheng, Jinyu Tong, Qingyun Liu. [Deep stacked pinball transfer matrix machine with its application in roller bearing fault diagnosis](https://doi.org/10.1016/j.engappai.2023.105991), *Engineering Applications of Artificial Intelligence*, 2023. *JCR Q1, IF=7.5*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:W7OEmFMy1HYC'></span></strong> 
 
+<div class='paper-box-text' markdown="1">
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng. [A novel symplectic relevance matrix machine method for intelligent fault diagnosis of roller bearing](https://doi.org/10.1016/j.eswa.2021.116400), *Expert Systems with Applications*, 2022. *JCR Q1, IF=7.5*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:qjMakFHDy7sC'></span></strong> 
 
+<div class='paper-box-text' markdown="1">
 Haiyang Pan, **Haifeng Xu**, Qingyun Liu, Jinde Zheng, Jinyu Tong. [An intelligent fault diagnosis method based on adaptive maximal margin tensor machine](https://doi.org/10.1016/j.eswa.2021.116400), *Measurement*, 2022. *JCR Q1, IF=5.2*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:2osOgNQ5qMEC'></span></strong> 
 
+<div class='paper-box-text' markdown="1">
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Qingyun Liu, Jinyu Tong. [Cyclic symplectic component decomposition with application in planetary gearbox fault diagnosis](https://doi.org/10.1016/j.mechmachtheory.2022.104792), *Mechanism and Machine Theory*, 2022. *JCR Q1, IF=4.5*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:d1gkVwhDpl0C'></span></strong> 
 
+<div class='paper-box-text' markdown="1">
 Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pinball transfer support matrix machine for roller bearing fault diagnosis under limited annotation data](https://doi.org/10.1016/j.asoc.2022.109209), *Applied Soft Computing*, 2022. *JCR Q1, IF=7.2*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:IjCSPb-OGe4C'></span></strong> 
 
 <span class='anchor' id='research-projects'></span>
