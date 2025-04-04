@@ -34,14 +34,14 @@ My research interest includes **Nonlinear Dynamic**, **Deep Learning** applicati
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Inform. Fusion. 2024</div><img src='images/GELRTLM.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate](https://doi.org/10.1016/j.inffus.2023.102222), published in *Information Fusion*. (*JCR Q1, IF=14.8*)
+[Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate](https://doi.org/10.1016/j.inffus.2023.102222)
 
 **Haifeng Xu**, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong> **🏆Highly Cited Paper**,**🔥Hot Paper**
-- A multi-sensor information fusion method for semi-supervised intelligent diagnosis. Extremely fewer labeled multi-sensor signals fusion features are used for modeling.
-<div>
-<div>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong> 
+- A multi-sensor information fusion method for semi-supervised intelligent diagnosis. Extremely fewer labeled multi-sensor signals fusion features are used for modeling.（Published in *Information Fusion*. *JCR Q1, IF=14.8*， **🏆Highly Cited Paper**,**🔥Hot Paper**)
+</div>
+</div>
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🥇 Honors and Awards
