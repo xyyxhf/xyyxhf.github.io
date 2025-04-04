@@ -124,7 +124,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jin Su, Jinyu Tong
 </div>
 </div>
 
-Haiyang Pan, **Haifeng Xu**, Jian Cheng, Jinde Zheng, Jinyu Tong. [A Multiclass Graph Embedding Matrix Classification Method for Roller Bearing State Identification Under Limited Sample](https://doi.org/10.1109/TR.2025.3530441), *IEEE Transactions on Reliability*, 2025. *JCR Q2, IF=5*. (https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:LkGwnXOMwfcC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:LkGwnXOMwfcC'></span></strong> 
+Haiyang Pan, **Haifeng Xu***, Jian Cheng, Jinde Zheng, Jinyu Tong. [A Multiclass Graph Embedding Matrix Classification Method for Roller Bearing State Identification Under Limited Sample](https://doi.org/10.1109/TR.2025.3530441), *IEEE Transactions on Reliability*, 2025. *JCR Q2, IF=5*. (https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:LkGwnXOMwfcC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:LkGwnXOMwfcC'></span></strong> 
 </div>
 </div>
 
