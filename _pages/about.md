@@ -24,11 +24,11 @@ My research interest includes **Nonlinear Dynamic of Jointed Structure**, **Deco
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.04*: &nbsp;🎉 Received the Provincial Outstanding Master's Thesis from Education Department of Anhui Province. 
-- *2025.02*: &nbsp;🎉 A paper accepeted by journal [*IEEE Transactions on Reliability*](https://doi.org/10.1109/TR.2025.3530441). 
+- *2025.02*: &nbsp;🎉 A paper accepeted by journal [IEEE Transactions on Reliability](https://doi.org/10.1109/TR.2025.3530441). 
 - *2024.12*: &nbsp;🎉 Received the National scholarship from Tongji University.
 - *2024.07*: &nbsp;🎉 Received the Outstanding Master's Thesis in Mechanical Engineering from Auhui Mechanical Engineering Society.
-- *2024.01*: &nbsp;🎉 A paper accepeted by journal [*Information Fusion*](https://doi.org/10.1016/j.inffus.2023.102222).
-- *2024.01*: &nbsp;🎉 A paper accepeted by journal [*Applied Soft Computing*](https://doi.org/10.1016/j.asoc.2024.111229).
+- *2024.01*: &nbsp;🎉 A paper accepeted by journal [Information Fusion](https://doi.org/10.1016/j.inffus.2023.102222).
+- *2024.01*: &nbsp;🎉 A paper accepeted by journal [Applied Soft Computing](https://doi.org/10.1016/j.asoc.2024.111229).
 
 <span class='anchor' id='publications'></span>  
 # 📝 Publications 
@@ -155,7 +155,7 @@ Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pi
 
 <span class='anchor' id='research-projects'></span>
 # 📕 Research Projects
-- *2022.01 - 2022.12*. *Research on Nonlinear Projection Analysis and Diagnostic Methods for Typical Faults of Gearboxes under Complex Operating Conditions*, Anhui Province Graduate Science Research Project, **Host**, Project Completed.
+- *2022.01 - 2022.12*. *Research on Nonlinear Projection Analysis and Diagnostic Methods for Typical Faults of Gearboxes under Complex Operating Conditions*, Anhui Province Graduate Science Research Project, **Host**, *Project Completed*.
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🥇 Honors and Awards
