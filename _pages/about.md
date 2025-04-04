@@ -23,12 +23,12 @@ My research interest includes **Nonlinear Dynamic of Jointed Structure**, **Deco
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2025.04*: &nbsp;🎉 Received the Provincial Outstanding Master's Thesis from Education Department of Anhui Province. 
-- *2025.02*: &nbsp;🎉 A paper accepeted by journal [IEEE Transactions on Reliability](https://doi.org/10.1109/TR.2025.3530441). 
-- *2024.12*: &nbsp;🎉 Received the National scholarship from Tongji University.
-- *2024.07*: &nbsp;🎉 Received the Outstanding Master's Thesis in Mechanical Engineering from Auhui Mechanical Engineering Society.
-- *2024.01*: &nbsp;🎉 A paper accepeted by journal [Information Fusion](https://doi.org/10.1016/j.inffus.2023.102222).
-- *2024.01*: &nbsp;🎉 A paper accepeted by journal [Applied Soft Computing](https://doi.org/10.1016/j.asoc.2024.111229).
+- *2025.04* &nbsp;🎉 Received the Provincial Outstanding Master's Thesis from Education Department of Anhui Province. 
+- *2025.02* &nbsp;🎉 A paper accepeted by journal [IEEE Transactions on Reliability](https://doi.org/10.1109/TR.2025.3530441). 
+- *2024.12* &nbsp;🎉 Received the National scholarship from Tongji University.
+- *2024.07* &nbsp;🎉 Received the Outstanding Master's Thesis in Mechanical Engineering from Auhui Mechanical Engineering Society.
+- *2024.01* &nbsp;🎉 A paper accepeted by journal [Information Fusion](https://doi.org/10.1016/j.inffus.2023.102222).
+- *2024.01* &nbsp;🎉 A paper accepeted by journal [Applied Soft Computing](https://doi.org/10.1016/j.asoc.2024.111229).
 
 <span class='anchor' id='publications'></span>  
 # 📝 Publications 
@@ -155,7 +155,7 @@ Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pi
 
 <span class='anchor' id='research-projects'></span>
 # 📕 Research Projects
-- *2022.01 - 2022.12*. *Research on Nonlinear Projection Analysis and Diagnostic Methods for Typical Faults of Gearboxes under Complex Operating Conditions*, Anhui Province Graduate Science Research Project, **Host**, *Project Completed*.
+- *2022.01 - 2022.12* . *Research on Nonlinear Projection Analysis and Diagnostic Methods for Typical Faults of Gearboxes under Complex Operating Conditions*, Anhui Province Graduate Science Research Project, **Host**, *Project Completed*.
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🥇 Honors and Awards
@@ -169,16 +169,14 @@ Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pi
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
-- *2024.09 - present*, Ph.D. in Aerospace Science and Technology, Tongji University, Supervisor: Prof. [Zhang Zhen](https://www.researchgate.net/profile/Zhen-Zhang-52).
-- *2020.09 - 2023.07*, M.E. in Mechanical Engineering, Anhui University of Technology, Supervisors: Assoc. Prof. [Pan Haiyang](https://www.researchgate.net/profile/Haiyang-Pan), Prof. [Zheng Jinde](https://www.researchgate.net/profile/Zheng-Jinde).
-- *2015.09 - 2019.07*, B.E. in Mechanical Design, Manufacturing, and Automation, Anqing Normal University.
+- *2024.09 - present* . Ph.D. in Aerospace Science and Technology, Tongji University, Supervisor: Prof. [Zhang Zhen](https://www.researchgate.net/profile/Zhen-Zhang-52).
+- *2020.09 - 2023.07* . M.E. in Mechanical Engineering, Anhui University of Technology, Supervisors: Assoc. Prof. [Pan Haiyang](https://www.researchgate.net/profile/Haiyang-Pan), Prof. [Zheng Jinde](https://www.researchgate.net/profile/Zheng-Jinde).
+- *2015.09 - 2019.07* . B.E. in Mechanical Design, Manufacturing, and Automation, Anqing Normal University.
 
 <span class='anchor' id='work-experiences'></span>
 # 💻 Work Experiences
-- *2024.09 - 2024.06*, Research Assistant in Tsinghua University.
--- Conducted research project focused on large language model for machinary industry health monitoring.
-- *2023.07 - 2024.09*, Algorithm Engineer in FreqX Intelligence Technology Co., Ltd..
--- Conducted algorithm development for machinary intelligent health maintainance.
+- *2024.09 - 2024.06* . Research Assistant in Tsinghua University. Conducted research project focused on large language model for machinary industry health monitoring.
+- *2023.07 - 2024.09* . Algorithm Engineer in FreqX Intelligence Technology Co., Ltd.. Conducted algorithm development for machinary intelligent health maintainance.
   
 <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
