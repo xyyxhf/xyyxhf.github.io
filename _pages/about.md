@@ -124,7 +124,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jin Su, Jinyu Tong
 </div>
 </div>
 
-Haiyang Pan, **Haifeng Xu***, Jian Cheng, Jinde Zheng, Jinyu Tong. [A Multiclass Graph Embedding Matrix Classification Method for Roller Bearing State Identification Under Limited Sample](https://doi.org/10.1109/TR.2025.3530441), *IEEE Transactions on Reliability*, 2025. *JCR Q2, IF=5*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:LkGwnXOMwfcC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:LkGwnXOMwfcC'></span></strong> 
+Haiyang Pan, **Haifeng Xu**, Jian Cheng, Jinde Zheng, Jinyu Tong. [A Multiclass Graph Embedding Matrix Classification Method for Roller Bearing State Identification Under Limited Sample](https://doi.org/10.1109/TR.2025.3530441), *IEEE Transactions on Reliability*, 2025. *JCR Q2, IF=5*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:LkGwnXOMwfcC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:LkGwnXOMwfcC'></span></strong> 
 
 Qi Li, Lichang Qin, **Haifeng Xu**, Qijian Lin, Zhaoye Qin, Fulei Chu. [Transparent information fusion network: An explainable network for multi-source bearing fault diagnosis via self-organized neural-symbolic nodes](https://doi.org/10.1016/j.aei.2025.103156), *Advanced Engineering Informatics*, 2025. *JCR Q1, IF=8*. [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=FKjwZekAAAAJ&citation_for_view=FKjwZekAAAAJ:_FxGoFyzp5QC) <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:_FxGoFyzp5QC'></span></strong> 
 
