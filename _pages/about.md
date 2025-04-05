@@ -103,20 +103,6 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Haidong Shao, Jinyu Tong
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowl-Based. Systems. 2022</div><img src='images/TRMM.png' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Twin robust matrix machine for intelligent fault identification of outlier samples in roller bearing](https://doi.org/10.1016/j.knosys.2022.109391)
-  
-Published in *Knowledge-Based Systems*, *JCR Q1, IF=7.2*.
-
-Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong, Jian Cheng
-
-- A twin robust matrix machine is proposed for classification with outliers. The truncated nuclear norm makes TRMM can capture strong correlated information. The ramp loss is introduced to make TRMM insensitive to outlier samples.
-
-<strong><span class='show_paper_citations' data='FKjwZekAAAAJ:9yKSN-GCB0IC'></span></strong>
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Adv. Eng. Inform. 2022</div><img src='images/MFSMM.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Multi-class fuzzy support matrix machine for classification in roller bearing fault diagnosis](https://doi.org/10.1016/j.aei.2021.101445)
@@ -140,6 +126,11 @@ Qi Li, Lichang Qin, **Haifeng Xu**, Qijian Lin, Zhaoye Qin, Fulei Chu. [Transpar
 <div class='paper-box-text' markdown="1">
 Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinde Zheng, Jinyu Tong, Qingyun Liu. [Deep stacked pinball transfer matrix machine with its application in roller bearing fault diagnosis](https://doi.org/10.1016/j.engappai.2023.105991), *Engineering Applications of Artificial Intelligence*, 2023. *JCR Q1, IF=7.5*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:W7OEmFMy1HYC'></span></strong> 
 </div>
+
+<div class='paper-box-text' markdown="1">
+Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong, Jian Cheng. [Twin robust matrix machine for intelligent fault identification of outlier samples in roller bearing](https://doi.org/10.1016/j.knosys.2022.109391), 2022, *Knowledge-Based Systems*, *JCR Q1, IF=7.2*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:9yKSN-GCB0IC'></span></strong>
+</div>
+
 <div class='paper-box-text' markdown="1">
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng. [A novel symplectic relevance matrix machine method for intelligent fault diagnosis of roller bearing](https://doi.org/10.1016/j.eswa.2021.116400), *Expert Systems with Applications*, 2022. *JCR Q1, IF=7.5*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:qjMakFHDy7sC'></span></strong> 
 </div>
