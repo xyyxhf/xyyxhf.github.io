@@ -19,7 +19,7 @@ redirect_from:
 # 👋 About me
 I am a **Ph.D. student** in the School of Aerospace Engineering and Applied Mechanics, **Tongji University**, supervised by Prof. [Zhang Zhen](https://www.researchgate.net/profile/Zhen-Zhang-52).
 
-My research interest includes **Nonlinear Dynamic of Jointed Structure**, **Decoupling Problem of Nonlinear Systems**, **Deep Learning application in Nonlinear Systems Identification**, and **Intelligent Fault Diagnosis**. I have published numerous papers at the top international journals with total <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> ( <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google scholar citations"></a>).
+My research interest includes **Nonlinear Dynamic of Jointed Structure**, **Decoupling Problem of Nonlinear Systems**, **Deep Learning application in Nonlinear Systems Identification**, and **Intelligent Fault Diagnosis**. I have published numerous papers at the top international journals with total <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google Scholar Citations"></a>.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
