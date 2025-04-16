@@ -19,7 +19,7 @@ redirect_from:
 # 👋 About me
 I am a **Ph.D. student** in the School of Aerospace Engineering and Applied Mechanics, **Tongji University**, supervised by Prof. [Zhang Zhen](https://www.researchgate.net/profile/Zhen-Zhang-52).
 
-My research interest includes **inverse identification of nonlinear dynamical systems of jointd structures**, **mechanical intelligent fault diagnosis**, **deep learning algorithm**, and **matrix&tensor learning algorithm**, etc. I have published numerous papers at the top international journals with total <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
+My research interest includes **inverse identification of nonlinear dynamical systems of jointd structures**, **mechanical intelligent fault diagnosis**, **deep learning algorithm**, and **matrix&tensor learning algorithm**, etc. I have published numerous papers at the top international journals with total <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'>google scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
