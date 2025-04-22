@@ -174,7 +174,7 @@ Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pi
 - *T o D o*
 - 
 <span class='anchor' id='friend-links'></span>
-# 👫 Friend links
+# 🤝☕ Friend links
 - [Qi Li](http://liq22.github.io)
 
 
