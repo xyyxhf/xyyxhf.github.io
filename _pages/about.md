@@ -168,12 +168,13 @@ Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pi
 # 💻 Work Experiences
 - *2024.09 - 2024.06* . Research Assistant in Tsinghua University. Conducted research project focused on large language model for machinary industry health monitoring.
 - *2023.07 - 2024.09* . Algorithm Engineer in FreqX Intelligence Technology Co., Ltd.. Conducted algorithm development for machinary intelligent health maintainance.
-
+- 
+<span class='anchor' id='invited-talks'></span>
+# 💬 Invited Talks
+- *T o D o*
+- 
 <span class='anchor' id='friend-links'></span>
 # 👫 Friend links
 - [Qi Li](http://liq22.github.io)
 
-<span class='anchor' id='invited-talks'></span>
-# 💬 Invited Talks
-- *T o D o*
 
