@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: "/#publications"
     
-  - title: "Research Projects"
-    url: "/#research-projects"
+  # - title: "Research Projects"
+  #   url: "/#research-projects"
 
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
