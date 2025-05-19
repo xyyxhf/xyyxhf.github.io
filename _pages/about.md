@@ -24,11 +24,11 @@ My research interest includes **nonlinear dynamical systems**, **mechanical inte
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.04* &nbsp;🎉 Received the Provincial Outstanding Master's Thesis from Education Department of Anhui Province. 
-- *2025.02* &nbsp;🎉 A paper accepeted by journal [IEEE Transactions on Reliability](https://doi.org/10.1109/TR.2025.3530441). 
+- *2025.02* &nbsp;🎉 A paper accepeted by journal IEEE Transactions on Reliability. 
 - *2024.12* &nbsp;🎉 Received the National scholarship from Tongji University.
 - *2024.07* &nbsp;🎉 Received the Outstanding Master's Thesis in Mechanical Engineering from Auhui Mechanical Engineering Society.
-- *2024.01* &nbsp;🎉 A paper accepeted by journal [Information Fusion](https://doi.org/10.1016/j.inffus.2023.102222).
-- *2024.01* &nbsp;🎉 A paper accepeted by journal [Applied Soft Computing](https://doi.org/10.1016/j.asoc.2024.111229).
+- *2024.01* &nbsp;🎉 A paper accepeted by journal Information Fusion.
+- *2024.01* &nbsp;🎉 A paper accepeted by journal Applied Soft Computing.
 
 <span class='anchor' id='publications'></span>  
 # 📝 Publications 
