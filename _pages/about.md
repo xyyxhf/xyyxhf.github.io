@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About me
-I am a **Ph.D. student** in the School of Aerospace Engineering and Applied Mechanics, **Tongji University**.
+I am a **Ph.D. candidate‌** in the School of Aerospace Engineering and Applied Mechanics, **Tongji University**.
 
 My research interest includes **nonlinear dynamical systems**, **mechanical intelligent fault diagnosis**, **specific foundation model**, etc. I have published numerous papers at the top international journals with total <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong></a>.
 
