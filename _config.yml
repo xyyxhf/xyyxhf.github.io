@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Xu Haifeng's Homepage"
 description              : "Tongji University."
-repository               : "xyyxhf/xuhaifeng.github.io"
+repository               : "xyyxhf.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
