@@ -34,9 +34,10 @@ My research interest includes **nonlinear dynamical systems**, **mechanical inte
 
 # 📝 Publications
 
-<details>
-<summary><h2 style="display: inline-block">Intelligent Fault diagnosis</h2></summary>
-  
+## Nonlinear dynamics
+
+## Intelligent fault diagnosis
+
 <details>
 <summary><h2 style="display: inline-block">2025</h2></summary>
   
@@ -119,7 +120,6 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Qingyun Liu, Jinyu Tong. [Cyclic sympl
 <div class='paper-box-text' markdown="1">
 Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pinball transfer support matrix machine for roller bearing fault diagnosis under limited annotation data](https://doi.org/10.1016/j.asoc.2022.109209), *Applied Soft Computing*, 2022. *JCR Q1, IF=7.2*. 
 </div>
-</details>
 </details>
 
 <span class='anchor' id='honors-and-awards'></span>
