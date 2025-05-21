@@ -34,12 +34,12 @@ My research interest includes **nonlinear dynamical systems**, **mechanical inte
 
 # 📝 Publications
 
-## 🚫 Nonlinear dynamics
+## 👇🏻 Nonlinear dynamics
 
-## Intelligent fault diagnosis
+## 👇🏻 Intelligent fault diagnosis
 
 <details>
-<summary><h2 style="display: inline-block">📅2025</h2></summary>
+<summary><h2 style="display: inline-block">2025</h2></summary>
   
 <div class='paper-box-text' markdown="1">
 Haiyang Pan, **Haifeng Xu**, Jian Cheng, Jinde Zheng, Jinyu Tong. [A Multiclass Graph Embedding Matrix Classification Method for Roller Bearing State Identification Under Limited Sample](https://doi.org/10.1109/TR.2025.3530441), *IEEE Transactions on Reliability*, 2025. *JCR Q2, IF=5*. 
