@@ -34,9 +34,9 @@ My research interest includes **nonlinear dynamical systems**, **mechanical inte
 
 # 📝 Publications
 
-## Nonlinear dynamics
+## ⇣⇣⇣ Nonlinear dynamics
 
-## Intelligent fault diagnosis
+## ⇣⇣⇣ Intelligent fault diagnosis
 
 <details>
 <summary><h2 style="display: inline-block">2025</h2></summary>
