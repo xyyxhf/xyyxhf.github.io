@@ -52,13 +52,12 @@ In progress...
 
 [Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate](https://doi.org/10.1016/j.inffus.2023.102222) 
   
-Published in *Information Fusion*, *JCR Q1, IF=14.8*. 
+Published in *Information Fusion*, *JCR Q1, IF=14.8*. **🔥Hot Paper** **🏆Highly Cited Paper** 
 
 **Haifeng Xu**, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu
 
 - A multi-sensor information fusion method for semi-supervised intelligent diagnosis. Extremely fewer labeled multi-sensor signals fusion features are used for modeling.
 
-**🔥Hot Paper** **🏆Highly Cited Paper** 
 </div>
 </div>
 
