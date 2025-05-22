@@ -35,11 +35,11 @@ My research interest includes **nonlinear dynamical systems**, **mechanical inte
 # 📝 Publications
 
 <details>
-<summary><h2 style="display: inline-block">✍ Nonlinear dynamics of bolted joints</h2></summary>
-IN PROGRESS ......
+<summary><h2 style="display: inline-block">✍ NONLINEAR DYNAMIC OF BOLTED JOINTS</h2></summary>
+In progress...
 </details>
 
-## 👇🏻 Intelligent fault diagnosis
+## 👇🏻 MECHANICAL FAULT DIAGNOSIS
 
 <div class='paper-box'>
   <div class='paper-box-image'>
