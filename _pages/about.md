@@ -41,13 +41,6 @@ IN PROGRESS ......
 
 ## 👇🏻 Intelligent fault diagnosis
 
-<div class='paper-box-text' markdown="1">
-Haiyang Pan, **Haifeng Xu**, Jian Cheng, Jinde Zheng, Jinyu Tong. [A Multiclass Graph Embedding Matrix Classification Method for Roller Bearing State Identification Under Limited Sample](https://doi.org/10.1109/TR.2025.3530441), *IEEE Transactions on Reliability*, 2025. *JCR Q2, IF=5*. 
-</div>
-
-<div class='paper-box-text' markdown="1">
-Qi Li, Lichang Qin, **Haifeng Xu**, Qijian Lin, Zhaoye Qin, Fulei Chu. [Transparent information fusion network: An explainable network for multi-source bearing fault diagnosis via self-organized neural-symbolic nodes](https://doi.org/10.1016/j.aei.2025.103156), *Advanced Engineering Informatics*, 2025. *JCR Q1, IF=8*. 
-</div>
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -69,6 +62,12 @@ Published in *Information Fusion*, *JCR Q1, IF=14.8*.
 </div>
 </div>
 
+<div class='paper-box-text' markdown="1">
+Haiyang Pan, **Haifeng Xu**, Jian Cheng, Jinde Zheng, Jinyu Tong. [A Multiclass Graph Embedding Matrix Classification Method for Roller Bearing State Identification Under Limited Sample](https://doi.org/10.1109/TR.2025.3530441), *IEEE Transactions on Reliability*, 2025. *JCR Q2, IF=5*. 
+</div>
+<div class='paper-box-text' markdown="1">
+Qi Li, Lichang Qin, **Haifeng Xu**, Qijian Lin, Zhaoye Qin, Fulei Chu. [Transparent information fusion network: An explainable network for multi-source bearing fault diagnosis via self-organized neural-symbolic nodes](https://doi.org/10.1016/j.aei.2025.103156), *Advanced Engineering Informatics*, 2025. *JCR Q1, IF=8*. 
+</div>
 <div class='paper-box-text' markdown="1">
 **Haifeng Xu**, Haiyang Pan, Jinde Zheng, Jinyu Tong, Feibin Zhang, Fulei Chu. [Intelligent fault identification in sample imbalance scenarios using robust low-rank matrix classifier with fuzzy weighting factor](https://doi.org/10.1016/j.asoc.2024.111229), *Applied Soft Computing*, 2024. *JCR Q1, IF=7.2*. 
 </div>
