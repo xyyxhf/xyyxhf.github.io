@@ -34,13 +34,12 @@ My research interest includes **nonlinear dynamical systems**, **mechanical inte
 
 # 📝 Publications
 
-## ✍ Nonlinear dynamics
+<details>
+<summary><h2 style="display: inline-block">## ✍ Nonlinear dynamics</h2></summary>
+</details>
 
 ## 👇🏻 Intelligent fault diagnosis
 
-<details>
-<summary><h2 style="display: inline-block">2025</h2></summary>
-  
 <div class='paper-box-text' markdown="1">
 Haiyang Pan, **Haifeng Xu**, Jian Cheng, Jinde Zheng, Jinyu Tong. [A Multiclass Graph Embedding Matrix Classification Method for Roller Bearing State Identification Under Limited Sample](https://doi.org/10.1109/TR.2025.3530441), *IEEE Transactions on Reliability*, 2025. *JCR Q2, IF=5*. 
 </div>
@@ -48,12 +47,6 @@ Haiyang Pan, **Haifeng Xu**, Jian Cheng, Jinde Zheng, Jinyu Tong. [A Multiclass 
 <div class='paper-box-text' markdown="1">
 Qi Li, Lichang Qin, **Haifeng Xu**, Qijian Lin, Zhaoye Qin, Fulei Chu. [Transparent information fusion network: An explainable network for multi-source bearing fault diagnosis via self-organized neural-symbolic nodes](https://doi.org/10.1016/j.aei.2025.103156), *Advanced Engineering Informatics*, 2025. *JCR Q1, IF=8*. 
 </div>
-
-</details>
-
-<details>
-<summary><h2 style="display: inline-block">2024</h2></summary>
-  
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -78,24 +71,12 @@ Published in *Information Fusion*, *JCR Q1, IF=14.8*.
 <div class='paper-box-text' markdown="1">
 **Haifeng Xu**, Haiyang Pan, Jinde Zheng, Jinyu Tong, Feibin Zhang, Fulei Chu. [Intelligent fault identification in sample imbalance scenarios using robust low-rank matrix classifier with fuzzy weighting factor](https://doi.org/10.1016/j.asoc.2024.111229), *Applied Soft Computing*, 2024. *JCR Q1, IF=7.2*. 
 </div>
-
-</details>
-  
-<details>
-<summary><h2 style="display: inline-block">2023</h2></summary>
-
 <div class='paper-box-text' markdown="1">
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Haidong Shao, Jinyu Tong. [A Semi-Supervised Matrixized Graph Embedding Machine for Roller Bearing Fault Diagnosis Under Few-Labeled Samples](https://doi.org/10.1109/TII.2023.3265525), *IEEE Transactions on Industrial Informatics*, 2023. *JCR Q1, IF=11.7*. **🏆Highly Cited Paper**
 </div>
 <div class='paper-box-text' markdown="1">
 Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinde Zheng, Jinyu Tong, Qingyun Liu. [Deep stacked pinball transfer matrix machine with its application in roller bearing fault diagnosis](https://doi.org/10.1016/j.engappai.2023.105991), *Engineering Applications of Artificial Intelligence*, 2023. *JCR Q1, IF=7.5*.
 </div>
-
-</details>
-
-<details>
-<summary><h2 style="display: inline-block">2022</h2></summary>
-  
 <div class='paper-box-text' markdown="1">
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [Non-parallel bounded support matrix machine and its application in roller bearing fault diagnosis](https://doi.org/10.1016/j.ins.2022.12.090), *Information Sciences*, 2022, *JCR Q1, IF=8.1*. **🏆Highly Cited Paper**
 </div>
@@ -120,7 +101,6 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Qingyun Liu, Jinyu Tong. [Cyclic sympl
 <div class='paper-box-text' markdown="1">
 Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pinball transfer support matrix machine for roller bearing fault diagnosis under limited annotation data](https://doi.org/10.1016/j.asoc.2022.109209), *Applied Soft Computing*, 2022. *JCR Q1, IF=7.2*. 
 </div>
-</details>
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🥇 Honors and Awards
