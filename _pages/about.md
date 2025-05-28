@@ -35,7 +35,7 @@ My research interest includes **nonlinear dynamical systems**, **mechanical inte
 # 📝 Publications
 
 <details>
-<summary><h2 style="display: inline-block">✍ NONLINEAR DYNAMIC OF BOLTED JOINTS</h2></summary>
+<summary><h2 style="display: inline-block">✍ MORE</h2></summary>
 In progress...
 </details>
 
