@@ -111,6 +111,17 @@ Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pi
 - *2022.12* . Anhui Province Postgraduate Innovation and Entrepreneurship Star by Education Department of Anhui Province.
 - *2021.12* . Merit Student by Anhui University of Technology.
 
+<span class='anchor' id='journal-review'></span>
+# 📰 Journal Review
+- IEEE Internet of Things Journal
+- Mechanical Systems and Signal Processing
+- Advanced Engineering Informatics
+- Computers in Industry
+- Advances in Engineering Software
+- Measurement Science and Technology
+- The Journal of Supercomputing 
+- Engineering Research Express
+
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2024.09 - present* . Ph.D. in Aerospace Science and Technology, Tongji University, Supervisor: Prof. [Zhang Zhen](https://www.researchgate.net/profile/Zhen-Zhang-52).
