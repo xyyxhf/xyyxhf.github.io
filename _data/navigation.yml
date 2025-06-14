@@ -14,7 +14,10 @@ main:
 
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
-
+    
+  - title: "Journal Review"
+    url: "/#journal-review"
+    
   - title: "Educations"
     url: "/#educations"
     
