@@ -114,7 +114,6 @@ Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pi
 <span class='anchor' id='journal-review'></span>
 # 📰 Journal Review
 - IEEE Internet of Things Journal
-- Mechanical Systems and Signal Processing
 - Advanced Engineering Informatics
 - Computers in Industry
 - Advances in Engineering Software
