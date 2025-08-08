@@ -116,6 +116,7 @@ Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pi
 - IEEE Internet of Things Journal
 - Advanced Engineering Informatics
 - Computers in Industry
+- Measurement
 - Advances in Engineering Software
 - Measurement Science and Technology
 - The Journal of Supercomputing 
