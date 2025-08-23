@@ -115,7 +115,7 @@ Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pi
 # 📰 Journal Review
 - IEEE Internet of Things Journal
 - Advanced Engineering Informatics
-- Computers in Industry
+- Knowledge-Based Systems
 - Measurement
 - Advances in Engineering Software
 - Measurement Science and Technology
