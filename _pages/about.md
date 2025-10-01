@@ -134,7 +134,7 @@ Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pi
 - *2024.09 - 2024.06* . Research Assistant in Tsinghua University. Conducted research project focused on large language model for machinary industry health monitoring.
 - *2023.07 - 2024.09* . Algorithm Engineer in FreqX Intelligence Technology Co., Ltd.. Conducted algorithm development for machinary intelligent health maintainance.
 - 
-<span class='anchor' id='invited-talks'></span>
+<span class='anchor' id='acadamic-conferences'></span>
 # 💬 Academic Conferences
 - 2025.09, $5^{th}$ International Conference on Mechatronics Technology and Aerospace Engineering, Fuzhou, China
 - 2025.08, Academic Conference of China Instrument and Control Society, Changsha, China
