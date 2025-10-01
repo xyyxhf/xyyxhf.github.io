@@ -135,7 +135,7 @@ Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pi
 - *2023.07 - 2024.09* . Algorithm Engineer in FreqX Intelligence Technology Co., Ltd.. Conducted algorithm development for machinary intelligent health maintainance.
 - 
 <span class='anchor' id='invited-talks'></span>
-# 💬 Invited Talks
+# 💬 Academic Conferences
 - 2025.09, $5^{th}$ International Conference on Mechatronics Technology and Aerospace Engineering, Fuzhou, China
 - 2025.08, Academic Conference of China Instrument and Control Society, Changsha, China
 - 2025.07, Shanghai Tri-University Doctoral Academic Forum on Aircraft Mechanics and Control, Shanghai, China
