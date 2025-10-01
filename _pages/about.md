@@ -136,8 +136,10 @@ Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pi
 - 
 <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
-- *T o D o*
-- 
+- 2025.09, $5^{th}$ International Conference on Mechatronics Technology and Aerospace Engineering, Fuzhou, China
+- 2025.08, Academic Conference of China Instrument and Control Society, Changsha, China
+- 2025.07, Shanghai Tri-University Doctoral Academic Forum on Aircraft Mechanics and Control, Shanghai, China
+
 <span class='anchor' id='friend-links'></span>
 # 🤝☕ Friend links
 - [Qi Li](http://liq22.github.io)
