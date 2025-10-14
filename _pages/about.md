@@ -118,6 +118,7 @@ Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pi
 - Knowledge-Based Systems
 - IEEE Internet of Things Journal
 - Measurement
+- Engineering Applications of Artificial Intelligence
 - Advances in Engineering Software
 - Measurement Science and Technology
 - The Journal of Supercomputing 
