@@ -100,6 +100,8 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Qingyun Liu, Jinyu Tong. [Cyclic sympl
 <div class='paper-box-text' markdown="1">
 Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pinball transfer support matrix machine for roller bearing fault diagnosis under limited annotation data](https://doi.org/10.1016/j.asoc.2022.109209), *Applied Soft Computing*, 2022. *JCR Q1, IF=6.6*. 
 </div>
+**徐海锋**, 潘海洋, 郑近德, 童靳于. [交互偏移支持矩阵机及其在滚动轴承故障诊断中的应用](https://kns.cnki.net/kcms2/article/abstract?v=ZHE1803t14vKpW96b2yNZbAbdTpGK1eO_EWFZ-ghdyANEqHJmBMN6eCT_iblOVicw3q6YW9XJcTu9SZANYA107_KehWGQZ85-4cf-ZZaSDv_ROjpqtwYPC7sZWpuenjMj38aUej_xMVrJoOHj2gHYbOSKKRUYLEFqfWe24Aakwdz7TTIDy5ACA==&uniplatform=NZKPT&language=CHS), *振动工程学报*, 2022.
+
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🥇 Honors and Awards
