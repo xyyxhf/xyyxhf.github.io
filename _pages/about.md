@@ -71,6 +71,9 @@ Qi Li, Lichang Qin, **Haifeng Xu**, Qijian Lin, Zhaoye Qin, Fulei Chu. [Transpar
 **Haifeng Xu**, Haiyang Pan, Jinde Zheng, Jinyu Tong, Feibin Zhang, Fulei Chu. [Intelligent fault identification in sample imbalance scenarios using robust low-rank matrix classifier with fuzzy weighting factor](https://doi.org/10.1016/j.asoc.2024.111229), *Applied Soft Computing*, 2024. *JCR Q1, IF=6.6*. 
 </div>
 <div class='paper-box-text' markdown="1">
+潘海洋, **徐海锋**, 郑近德, 童靳于, 张飞斌. [基于双加权不平衡矩阵分类器的机械故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=ZHE1803t14vvhWblAIO-W2hfnYLqSlIU-EBD412k0is0eDPiTUEGgh8yIloYTbepeSwNFZ70yE96svDcQpC9DpQxw6vii8eAjkoO3vej4bUA3mUMRty2CpZdJBlXmksgi1Q7vrhe_LtfbBXUDlIuXqHJaI7hJ_3rObFIvdH7qbyTWiCQ0Oz6tA==&uniplatform=NZKPT&language=CHS), *机械工程学报*, 2024.
+</div>
+<div class='paper-box-text' markdown="1">
 Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Haidong Shao, Jinyu Tong. [A Semi-Supervised Matrixized Graph Embedding Machine for Roller Bearing Fault Diagnosis Under Few-Labeled Samples](https://doi.org/10.1109/TII.2023.3265525), *IEEE Transactions on Industrial Informatics*, 2023. *JCR Q1, IF=9.9*. **🏆Highly Cited Paper**
 </div>
 <div class='paper-box-text' markdown="1">
@@ -100,8 +103,9 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Qingyun Liu, Jinyu Tong. [Cyclic sympl
 <div class='paper-box-text' markdown="1">
 Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinyu Tong, Jinde Zheng, Qingyun Liu. [Pinball transfer support matrix machine for roller bearing fault diagnosis under limited annotation data](https://doi.org/10.1016/j.asoc.2022.109209), *Applied Soft Computing*, 2022. *JCR Q1, IF=6.6*. 
 </div>
+<div class='paper-box-text' markdown="1">
 **徐海锋**, 潘海洋, 郑近德, 童靳于. [交互偏移支持矩阵机及其在滚动轴承故障诊断中的应用](https://kns.cnki.net/kcms2/article/abstract?v=ZHE1803t14vKpW96b2yNZbAbdTpGK1eO_EWFZ-ghdyANEqHJmBMN6eCT_iblOVicw3q6YW9XJcTu9SZANYA107_KehWGQZ85-4cf-ZZaSDv_ROjpqtwYPC7sZWpuenjMj38aUej_xMVrJoOHj2gHYbOSKKRUYLEFqfWe24Aakwdz7TTIDy5ACA==&uniplatform=NZKPT&language=CHS), *振动工程学报*, 2022.
-
+</div>
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🥇 Honors and Awards
