@@ -26,7 +26,7 @@ My research interest includes **nonlinear systems identification**, **structural
 - *2025.04* &nbsp;🎉 Received the Provincial Outstanding Master's Thesis from Education Department of Anhui Province. 
 - *2025.02* &nbsp;🎉 A paper accepeted by journal IEEE Transactions on Reliability. 
 - *2024.12* &nbsp;🎉 Received the National scholarship from Tongji University.
-- *2024.07* &nbsp;🎉 Received the Outstanding Master's Thesis in Mechanical Engineering from Auhui Mechanical Engineering Society.
+- *2024.07* &nbsp;🎉 Received the Outstanding Master's Thesis in Mechanical Engineering from Anhui Mechanical Engineering Society.
 - *2024.01* &nbsp;🎉 A paper accepeted by journal Information Fusion.
 - *2024.01* &nbsp;🎉 A paper accepeted by journal Applied Soft Computing.
 
@@ -114,7 +114,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
 # 🥇 Honors and Awards
 - *2025.04* . Provincial Outstanding Master's Thesis by Education Department of Anhui Province. 
 - *2024.12* . National Scholarship by Ministry of Education of China.
-- *2024.07* . Outstanding Master's Thesis in Mechanical Engineering by Auhui Mechanical Engineering Society.
+- *2024.07* . Outstanding Master's Thesis in Mechanical Engineering by Anhui Mechanical Engineering Society.
 - *2023.05* . Outstanding Graduate of Anhui Province Higher Education Institutions by Education Department of Anhui Province.
 - *2022.12* . National Scholarship by Ministry of Education of China.
 - *2022.12* . Anhui Province Postgraduate Innovation and Entrepreneurship Star by Education Department of Anhui Province.
