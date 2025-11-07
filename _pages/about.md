@@ -126,6 +126,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
 - Advanced Engineering Informatics
 - Knowledge-Based Systems
 - IEEE Internet of Things Journal
+- Engineering Failure Analysis
 - Measurement
 - Engineering Applications of Artificial Intelligence
 - Advances in Engineering Software
