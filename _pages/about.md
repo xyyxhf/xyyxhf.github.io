@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xu Haifeng's Homepage"
+title: "Xu Haifeng"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -19,7 +19,7 @@ redirect_from:
 # 👋 About me
 I am a **Ph.D. candidate‌** in the School of Aerospace Engineering and Applied Mechanics, Tongji University.
 
-My research interest includes **nonlinear systems identification**, **structural health monitoring**, **mechanical intelligent fault diagnosis**, etc. I have published numerous papers at the top international journals with total <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong></a>.
+My research interest includes **structural health monitoring**, **mechanical intelligent fault diagnosis**, etc. I have published numerous papers at the top international journals with total <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong></a>.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
