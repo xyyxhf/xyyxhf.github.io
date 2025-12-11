@@ -52,7 +52,8 @@ In progress...
 
 [Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate](https://doi.org/10.1016/j.inffus.2023.102222) 
   
-Published in *Information Fusion*, *CAS Q1-Top, JCR Q1, IF=15.5*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong>
+Published in *Information Fusion*, *CAS Q1-Top, JCR Q1, IF=15.5*. 
+<strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong>
 
 **🔥Hot Paper** **🏆Highly Cited Paper** 
 
