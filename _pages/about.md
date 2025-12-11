@@ -54,6 +54,7 @@ In progress...
   
 Published in *Information Fusion*, *CAS Q1-Top, JCR Q1, IF=15.5*. **🔥Hot Paper** **🏆Highly Cited Paper** 
 <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong>
+
 **Haifeng Xu**, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu
 
 - A multi-sensor information fusion method for semi-supervised intelligent diagnosis. Extremely fewer labeled multi-sensor signals fusion features are used for modeling.
