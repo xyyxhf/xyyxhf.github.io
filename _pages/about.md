@@ -150,7 +150,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
 - *2024.09 - 2024.06* . Research Assistant in Tsinghua University. Conducted research project focused on large language model for machinary industry health monitoring.
 - *2023.07 - 2024.09* . Algorithm Engineer in FreqX Intelligence Technology Co., Ltd.. Conducted algorithm development for machinary intelligent health maintainance.
 
-<span class='anchor' id='acadamic-conferences'></span>
+<span class='anchor' id='academic-onferences'></span>
 # 💬 Academic Conferences
 - 2025.09, $5^{th}$ International Conference on Mechatronics Technology and Aerospace Engineering, Fuzhou, China (*Best Oral Presentation Award*)
 - 2025.08, Academic Conference of China Instrument and Control Society, Changsha, China
