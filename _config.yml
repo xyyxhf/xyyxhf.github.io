@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xu Haifeng"
-description              : "Tongji University."
+description              : "Ph.D. Candidate at Tongji University."
 repository               : "xhf6/xhf6.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xu Haifeng (徐海锋)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. Candidate at Tongji University."
+  bio              : ""
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
