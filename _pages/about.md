@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About me
-I am a **Ph.D. candidate‌** in the School of Aerospace Engineering and Applied Mechanics, Tongji University.
+I'm a current **Ph.D. student** in **Aeronautics and Astronautics** at **Tongji University** (in the School of Aerospace Engineering and Applied Mechanics).
 
-My research interest includes **structural health monitoring**, **mechanical intelligent fault diagnosis**, etc. I have published numerous papers at the top international journals with total <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
-
+My research interest includes **structural health monitoring**, **mechanical intelligent fault diagnosis**, etc. I have published numerous papers in top-tier international journals with total <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
